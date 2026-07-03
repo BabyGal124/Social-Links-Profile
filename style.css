@@ -66,6 +66,8 @@ body{
     height: 250px;
     border-radius: 50%;
     object-fit: cover;
+    object-position: center;
+    background: rgba(255, 255, 255, 0.08);
     border: 3px solid var(--primary-text);
     box-shadow: 0 5px 20px rgba(5, 104, 0, 0.3);
 }
